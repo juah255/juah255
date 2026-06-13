@@ -8,8 +8,8 @@
   alt="Software Engineer | Backend, AI and DevOps Enthusiast"
 />
 
-[![GitHub followers](https://img.shields.io/github/followers/juah255?style=for-the-badge&logo=github&label=Followers)](https://github.com/juah255?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=juah255&style=for-the-badge&color=0e75b6)](https://github.com/juah255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 </div>
 
@@ -20,6 +20,19 @@
 - I develop tools and integrations for **WordPress and WooCommerce**.
 - I am currently expanding my knowledge of **backend engineering, DevOps, and AI engineering**.
 - I value maintainable code, useful documentation, and software that solves real problems.
+
+## Experience
+
+### Junior Software Engineer — weDevs Ltd.
+
+*Dhaka, Bangladesh*
+
+- Enhanced customer management, product catalog, order listing, and outlet management features in **wePOS**, a WooCommerce point-of-sale solution.
+- Resolved UI, checkout, and Stripe payment flow issues in **Dokan Multivendor Marketplace**.
+- Developed an interactive React component for **TryAura**, an AI-powered WooCommerce plugin.
+- Collaborated with product, QA, and design teams to deliver reliable features following industry best practices.
+
+**Tech:** `React` `PHP` `REST APIs` `WordPress` `WooCommerce` `Stripe`
 
 ## Featured Projects
 
@@ -37,17 +50,17 @@ A notification automation plugin for WordPress and WooCommerce. It helps site ow
 
 ---
 
-### Backend Engineering
+### DoNow
 
-A practical backend engineering lab for building production-oriented APIs and exploring the architecture behind reliable services.
+A full-stack todo application with a clean, responsive interface for managing everyday tasks.
 
-- Covers REST APIs, validation, authentication, and authorization
-- Explores database design, testing, caching, security, and observability
-- Includes PostgreSQL, Prisma, Docker, and deployment practices
+- Enables users to create, update, complete, filter, and delete tasks
+- Provides a RESTful Spring Boot API backed by Spring Data JPA and SQLite
+- Uses Next.js and TypeScript to deliver an intuitive frontend experience
 
-**Tech:** `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Docker`
+**Tech:** `Java` `Spring Boot` `Spring Data JPA` `Next.js` `TypeScript` `SQLite`
 
-[Explore Repository](https://github.com/juah255/backend-engineering)
+[Explore Repository](https://github.com/juah255/DoNow)
 
 ---
 
