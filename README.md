@@ -2,7 +2,11 @@
 
 # Hi, I'm juah255
 
-### Software Engineer | Backend, AI & DevOps Enthusiast
+<img
+  src="./assets/typing.svg"
+  width="800"
+  alt="Software Engineer | Backend, AI and DevOps Enthusiast"
+/>
 
 [![GitHub followers](https://img.shields.io/github/followers/juah255?style=for-the-badge&logo=github&label=Followers)](https://github.com/juah255?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=juah255&style=for-the-badge&color=0e75b6)](https://github.com/juah255)

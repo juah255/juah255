@@ -1,0 +1,84 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="800"
+  height="50"
+  viewBox="0 0 800 50"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Animated developer introduction</title>
+  <desc id="description">
+    Software Engineer. Backend, AI and DevOps Enthusiast. Building APIs,
+    automation and practical web tools.
+  </desc>
+
+  <style>
+    .line {
+      fill: #0969da;
+      font-family: "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      font-size: 22px;
+      font-weight: 600;
+    }
+
+    .cursor {
+      fill: #0969da;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .line,
+      .cursor {
+        fill: #58a6ff;
+      }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="line-one">
+      <rect x="280" y="8" width="0" height="34">
+        <animate
+          attributeName="width"
+          dur="15s"
+          repeatCount="indefinite"
+          values="0;0;240;240;0;0"
+          keyTimes="0;0.02;0.20;0.30;0.32;1"
+        />
+      </rect>
+    </clipPath>
+
+    <clipPath id="line-two">
+      <rect x="190" y="8" width="0" height="34">
+        <animate
+          attributeName="width"
+          dur="15s"
+          repeatCount="indefinite"
+          values="0;0;420;420;0;0"
+          keyTimes="0;0.34;0.52;0.63;0.65;1"
+        />
+      </rect>
+    </clipPath>
+
+    <clipPath id="line-three">
+      <rect x="105" y="8" width="0" height="34">
+        <animate
+          attributeName="width"
+          dur="15s"
+          repeatCount="indefinite"
+          values="0;0;590;590;0"
+          keyTimes="0;0.67;0.86;0.97;1"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text class="line" x="400" y="33" text-anchor="middle" clip-path="url(#line-one)">
+    Software Engineer
+  </text>
+
+  <text class="line" x="400" y="33" text-anchor="middle" clip-path="url(#line-two)">
+    Backend, AI &amp; DevOps Enthusiast
+  </text>
+
+  <text class="line" x="400" y="33" text-anchor="middle" clip-path="url(#line-three)">
+    Building APIs, automation &amp; practical web tools
+  </text>
+</svg>
